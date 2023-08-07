@@ -1,0 +1,7 @@
+CN
+Lab-2
+Syed Hurmath Arshed
+CS20B077
+
+This assignment gave a hands on experience on DNS heirarchy and understanding real life working of servers
+Not much improvements to add
